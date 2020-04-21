@@ -53,7 +53,7 @@ function makeSound(key) {
       break;
 
     default:
-      cosole.log(buttonInnerHTML);
+      console.log(buttonInnerHTML);
 
   }
 }
